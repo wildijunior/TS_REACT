@@ -1,6 +1,7 @@
 # TS_REACT
 Typescript + React
 #### backend
+** Nodejs
 * express
 * cors
 #### frontend
